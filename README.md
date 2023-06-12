@@ -1,1 +1,2 @@
 # tarjimon
+pip install googletranslator
